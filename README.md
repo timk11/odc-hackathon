@@ -8,4 +8,4 @@ This repository contains my submission for the The OpenData Community "DataBuild
 
 An easily readable of the shorter notebook can be found at https://nbviewer.org/github/timk11/odc-hackathon/blob/main/EDA_for_Sybil_attack_detection-v2.ipynb. I recommend going to this link first.
 
-I have sent supplementary material separately to @epowell101 which gives more specifics on groups of accounts that are of interest, including adding additional parameters from the donor_df dataframe to the large set of single-first-funder dataframes presented earlier in this notebook, and including a brief look at data from the current Alpha Grants Round.
+I have sent supplementary material separately to the bounty organiser which gives more specifics on groups of accounts that are of interest, including adding additional parameters from the donor_df dataframe to the large set of single-first-funder dataframes presented earlier in this notebook, and including a brief look at data from the current Alpha Grants Round.
